@@ -76,7 +76,7 @@
 <p align="center">
   <a href="mailto:shivanidubey1773@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shivanidubey23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://shivanidubey23-portfolio.netlify.app/">Portfolio</a>
+  <a href="https://shivanidubey23-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" /></a>
 
 </p>
 
