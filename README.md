@@ -97,14 +97,6 @@
 
 <div align="center">
 
-### 🌟 My Top Repositories
-<a href="https://github.com/Shivanidubey23/ecommerce-application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanidubey23&repo=repo1&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</a>
-<a href="https://github.com/Shivanidubey23/Devrecon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanidubey23&repo=repo2&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</a>
-
 ### 🔥 Recent Activity & PRs
 <!--START_SECTION:activity-->
 <!-- This section will be automatically updated by GitHub Actions -->
